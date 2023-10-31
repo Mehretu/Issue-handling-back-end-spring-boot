@@ -1,6 +1,6 @@
-package com.Unicash.issuehandling.model;
+package com.VVS.issuehandling.model;
 
-import com.Unicash.issuehandling.dto.response.SupportOut;
+import com.VVS.issuehandling.dto.response.SupportOut;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
@@ -13,8 +13,6 @@ import org.hibernate.annotations.UpdateTimestamp;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 @Data
 @NoArgsConstructor

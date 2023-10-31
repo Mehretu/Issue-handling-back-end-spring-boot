@@ -1,5 +1,5 @@
-package com.Unicash.issuehandling.repo;
-import com.Unicash.issuehandling.model.Issue;
+package com.VVS.issuehandling.repo;
+import com.VVS.issuehandling.model.Issue;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

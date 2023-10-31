@@ -1,4 +1,4 @@
-package com.Unicash.issuehandling.model;
+package com.VVS.issuehandling.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Entity;
